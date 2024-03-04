@@ -3,7 +3,7 @@
 </em></p>
 
 
-> I'm curious, enthusiastic and student most of the time, like the rest of the time to do random stuff.
+> I'm a curiosity driven as i said before dumb kid.
 
 -----------
 
