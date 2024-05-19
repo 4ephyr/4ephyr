@@ -1,0 +1,35 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional IDE files
+.idea/
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Output of npm commands
+npm-debug.log*
+
+# Editor directories and files
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.out
+
+# OS generated files
+ehthumbs.db
+Thumbs.db
+
+# Ignore Babel configuration file
+.babelrc
